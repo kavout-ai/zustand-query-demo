@@ -4,8 +4,8 @@ This is an example of using Zustand and React Query to manage front-end data flo
 
 ## **Dependencies**
 
-|                 | Description                                                                                                |
-| --------------- | ---------------------------------------------------------------------------------------------------------- |
+|                       | Description                                                                                                |
+| --------------------- | ---------------------------------------------------------------------------------------------------------- |
 | **Zustand**     | A lightweight and scalable state management solution for React, designed for simplicity and performance.   |
 | **React Query** | Facilitates fetching, caching, and synchronizing asynchronous data in React applications.                  |
 | **TypeScript**  | Provides static typing for JavaScript, enhancing code quality and maintainability.                         |
@@ -22,19 +22,17 @@ This is an example of using Zustand and React Query to manage front-end data flo
 - Clone the repository
 
   ```
-  git clone https://github.com/Shurong-Wang_JLLT/zustand-query-demo
+  git clone https://github.com/kavout-ai/zustand-query-demo
   ```
 
   ```
   cd zustand-query-demo
   ```
-
 - Installing Dependencies
 
   ```
   pnpm install
   ```
-
 - Running Locally
 
   ```
