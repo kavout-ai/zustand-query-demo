@@ -131,3 +131,5 @@ dev-dist
 .pnp.*
 
 
+
+.DS_Store
